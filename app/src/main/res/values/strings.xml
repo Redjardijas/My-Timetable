@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My timetable</string>
+    <string name="_17_30">17:30</string>
+    <string name="_4_4">4-4</string>
+    <string name="_08_00">08:00</string>
+    <string name="_11_40">11:40</string>
+    <string name="_13_50">13:50</string>
+    <string name="_15_40">15:40</string>
+    <string name="_19_20">19:20</string>
+    <string name="po">ЛК ПСЦОПИ(Сулім)</string>
+    <string name="_09_50">09:50</string>
+    <string name="_08_00_09_35">08:00 09:35</string>
+    <string name="_09_50_11_25">09:50 11:25</string>
+    <string name="m2">понедельник</string>
+    <string name="t2">вторник</string>
+    <string name="th2">четверг</string>
+    <string name="we2">среда</string>
+    <string name="f2">пятница</string>
+    <string name="s2">суббота</string>
+    <string name="gr">1 подгруппа</string>
+</resources>
